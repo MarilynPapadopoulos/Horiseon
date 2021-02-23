@@ -6,10 +6,9 @@
 
 body {
     background-color: #d9dcd6;
-    color: #ffffff;
 }
 
-/* apply styles to header */
+/* Apply Styles to Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -130,7 +129,6 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    color: black;
 }
 
 footer h2 {

@@ -3,23 +3,36 @@
 
 ## Description 
 
-The landing page for Horiseon needed improvement of it's accessibility standarads and SEO. The HTML contained non-semantic elements that I changed to semantic elements to better define the elements. I also cleaned up the structure for easier reading.  In order to improve accessibility I added "alt" attributes to each image. The title was non-descriptive so I added the company name along with the three key services offered. This should improve SEO.  No adjustment required for the heading attributes as they were already sequential. There were repeated CSS declarations. I consolidated where possible reducing duplications and added comments for improved readablity. These changes should improve the acccesabitly of the site as well as overall readablity.  
+This is the landing page for Horiseon.  It was in need of improvement to it's accessibility standarads and SEO.
+
+## Prerequisites
+* HTML
+* CSS
+
+The updates are all behind the scenes and aren't relfected in the layout of the landing page. In the code ou can see semantic HTML, consolidated CSS, concise commenting for an overall clean readability.  
+
+It now appears within the first three lines of most search engines with the addition of a descriptive title.  The page contains very decriptive "alt" attributes to ehnance accessibility. 
 
 
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
-Lastly, if your project is deployed, include a link to the deployed application here.
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+## URL
+
+ https://marilynpapadopoulos.github.io/Horiseon/
 
 
-## Usage 
-Heriseon comparison images:
-md [Before](assets/images/Before.png)
-md[After](assets/image/After.png)
+## Heriseon comparison images:
+
+Before images:
+<img width="1440" alt="Before-1" src="https://user-images.githubusercontent.com/23453583/108861145-e9b22600-75bc-11eb-96f4-4749e9bc8a6e.png">
+
+<img width="1410" alt="Before-2" src="https://user-images.githubusercontent.com/23453583/108861406-2ed65800-75bd-11eb-805d-ecbc10381c27.png">
+
+<img width="1411" alt="Before-3" src="https://user-images.githubusercontent.com/23453583/108861527-50374400-75bd-11eb-9114-bada470a2e05.png">
+
+After images:
+<img width="1440" alt="After-1" src="https://user-images.githubusercontent.com/23453583/108861614-6ba24f00-75bd-11eb-8205-daeef6831319.png">
+
+<img width="1410" alt="After-2" src="https://user-images.githubusercontent.com/23453583/108861676-7e1c8880-75bd-11eb-868a-5132bf48fa6b.png">
+
+<img width="1411" alt="After-3" src="https://user-images.githubusercontent.com/23453583/108861752-8d9bd180-75bd-11eb-9c87-647bb38d6349.png">
 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-```md
-![alt text](assets/images/screenshot.png)
-```
