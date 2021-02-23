@@ -2,7 +2,6 @@
 # Horiseon Landing Page
 
 ## Description 
-
 This is the landing page for Horiseon.  It was in need of improvement to it's accessibility standarads and SEO.
 
 ## Prerequisites
@@ -19,7 +18,7 @@ It now appears within the first three lines of most search engines with the addi
  https://marilynpapadopoulos.github.io/Horiseon/
 
 
-## Heriseon comparison images:
+## Horiseon comparison images:
 
 Before images:
 <img width="1440" alt="Before-1" src="https://user-images.githubusercontent.com/23453583/108861145-e9b22600-75bc-11eb-96f4-4749e9bc8a6e.png">
